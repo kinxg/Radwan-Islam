@@ -34,9 +34,6 @@
 
 </div>
 
-<div>
-  <img align="right" alt="Coding GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400"/>
-</div>
 
 ### 📫 Connect With Me
 - 💼 [LinkedIn](https://linkedin.com/in/)
@@ -48,6 +45,10 @@
 ### ⚡ Hobbies :
 > I do workout, play games, watch anime.
 >
-### Badge :
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kinxg.kinxg)
+### i stuck always, my bad 
+<div>
+  <img align="right" alt="Coding GIF" 
+    src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" 
+    width="400"/>
+</div>
 
