@@ -31,11 +31,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kinxg&show_icons=true&theme=radical" height="160px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinxg&layout=compact&theme=radical" height="160px"/>
-  <img align="right" alt="Coding GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400"/>
 
 </div>
 
----
+<div>
+  <img align="right" alt="Coding GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400"/>
+</div>
 
 ### 📫 Connect With Me
 - 💼 [LinkedIn](https://linkedin.com/in/)
@@ -48,5 +49,5 @@
 > I do workout, play games, watch anime.
 >
 ### Badge :
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kinxg.kinxg)
 
