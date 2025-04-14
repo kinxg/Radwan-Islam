@@ -1,5 +1,5 @@
 # Radwan-Islam
-<h1 align="center">Hi, I'm Radwan 👋</h1>
+<h1 align="center">Hi, I'm Radwan </h1>
 <p align="center">
   CS Student | Python & Web Developer | Tech Explorer
 </p>
@@ -37,7 +37,7 @@
 
 ### 📫 Connect With Me
 - 💼 [LinkedIn](https://linkedin.com/in/)
-- ✉️ radwan.email@example.com
+- ✉️ radwan.islam.contact@gmail.com
 - 🌐 Portfolio (coming soon!)
 
 ---
